@@ -1,4 +1,4 @@
-[aegis_crypto_guard.html](https://github.com/user-attachments/files/34626131/aegis_crypto_guard.html)
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
